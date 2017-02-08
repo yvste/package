@@ -1,0 +1,12 @@
+Package: RFM
+Type: Package
+Title: Calculats the RFM (RFM)
+Version: 0.1.0
+Author: Yves Steiner
+Maintainer: Yves Steiner <y.steiner@hotmail.comt>
+Description: Calculats the RFM.
+Depends: R (>= 3.01),data.table,Hmisc
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

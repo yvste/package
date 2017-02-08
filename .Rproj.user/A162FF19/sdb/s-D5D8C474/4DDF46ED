@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: RFM\nType: Package\nTitle: Calculats the RFM (RFM)\nVersion: 0.1.0\nAuthor: Yves Steiner\nMaintainer: Yves Steiner <y.steiner@hotmail.comt>\nDescription: Calculats the RFM.\nDepends: R (>= 3.01),data.table,Hmisc\nLicense: What license is it under?\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\n",
+    "created" : 1486562042064.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1007088273",
+    "id" : "4DDF46ED",
+    "lastKnownWriteTime" : 1486563853,
+    "last_content_update" : 1486563853,
+    "path" : "~/Desktop/Package/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

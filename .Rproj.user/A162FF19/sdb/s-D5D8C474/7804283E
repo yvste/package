@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# library(RFM)\n# library(lubridate)\n# library(data.table)\n# transactions <- fread(\"transactions.csv\")\n# transactions[, TransDate:=dmy(TransDate, tz=\"UTC\")]\n# RFM <- calculateRFM(transactions, 60, 20, 20)\n#\n# RFM\n#\n# install.packages(\"roxygen2\")\n# library(roxygen2)\n",
+    "created" : 1486562750524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "924707241",
+    "id" : "7804283E",
+    "lastKnownWriteTime" : 1486563901,
+    "last_content_update" : 1486563901614,
+    "path" : "~/Desktop/Package/R/script.R",
+    "project_path" : "R/script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
